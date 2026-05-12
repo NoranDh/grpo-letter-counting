@@ -33,7 +33,8 @@ Four reward functions were implemented to guide the model's learning:
 
 The reward curve below shows the model improving over 100 training steps. The orange line (correct answer reward mean) trends upward from ~0.2 to ~1.0, indicating the model learned to count letters more accurately.
 
-![Training Reward Curve](reward_curve.png)
+<img width="546" height="413" alt="image" src="https://github.com/user-attachments/assets/67986b57-0452-416d-b002-a8e3016f71ba" />
+
 
 ## Stack
 
